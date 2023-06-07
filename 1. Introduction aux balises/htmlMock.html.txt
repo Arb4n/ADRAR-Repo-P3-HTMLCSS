@@ -1,0 +1,14 @@
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+        		<meta charset="utf-8" />
+        		<title>Titre</title>
+    	</head>
+
+    	<body>
+        <em> https://www.lipsum.com/ <em> 
+
+    	</body>
+</html>

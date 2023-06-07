@@ -1,0 +1,43 @@
+https://fr.w3docs.com/snippets/css/comment-creer-un-effet-danimation-de-texte-brillant.html
+
+
+
+230606 1141
+
+>>home.style.css
+__
+edited header -> .header 
+Changed in .header display flex -> inline
+__
+changed in .navbar : padding 40%
+__
+added .navbar a{
+  text-decoration: none;
+}
+
+__
+
+added hover : 
+text-shadow: -5px 5px 0px black;
+
+_____
+_____
+
+230607 1055
+modified >> home.style
+#titre{
+    margin-left: 800px;
+    margin-right: 30%;
+	
+	TO
+	
+#titre{
+    margin-left: 60%;
+    margin-right: 50%;
+	
+	AND
+	
+	.navbar a {
+	font-sizer: larger; 
+	
+	}

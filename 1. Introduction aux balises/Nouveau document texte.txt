@@ -1,0 +1,43 @@
+site ecommerce 
+Pizzas
+Pizz'a la Kart 
+livraison en kart
+Formulaire choix de pizza 
+choix sauces 
+choix livraison ou pas 
+Son au click 
+Icones champis pour les boutons
+Menu de pizzas avec des petits j de mots
+
+
+Outils:
+Jetbrain
+
+Obg: 
+Tableau régulier
+Suivi de progression
+
+
+
+
+
+
+PREZ : 
+
+Design : 
+img/tit
++
+img/tit
++
+img/tit
+
+
+Objectifs : 
+
+Compte client : 
+
+carte de fidélité à points
+pizza pref enregistrée
+pizza custom enregistrée
+algo de conseil en pizza
+
